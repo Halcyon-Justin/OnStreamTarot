@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OnStreamTarot/static/css/main.e6c13ad2.css",
+    "main.js": "/OnStreamTarot/static/js/main.a78b688b.js",
+    "static/js/787.e4c1b50a.chunk.js": "/OnStreamTarot/static/js/787.e4c1b50a.chunk.js",
+    "index.html": "/OnStreamTarot/index.html",
+    "main.e6c13ad2.css.map": "/OnStreamTarot/static/css/main.e6c13ad2.css.map",
+    "main.a78b688b.js.map": "/OnStreamTarot/static/js/main.a78b688b.js.map",
+    "787.e4c1b50a.chunk.js.map": "/OnStreamTarot/static/js/787.e4c1b50a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a78b688b.js"
+  ]
+}
